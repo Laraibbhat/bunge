@@ -1,0 +1,98 @@
+/*html{
+  font-size: 62.5%;
+  box-sizing: border-box;
+}*/
+
+body,
+#root {
+  height: 100vh;
+  margin: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: 5rem 1fr 5rem;
+  height: 100%;
+}
+
+header {
+  grid-area: header;
+}
+main {
+  grid-area: main;
+  margin: 1% 13%;
+}
+footer {
+  grid-area: footer;
+}
+
+.header-nav {
+  margin: 0 3%;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  color: black;
+}
+.nav-link {
+  color: black;
+}
+.footer-card {
+  background-color: rgb(32, 31, 31);
+  color: white;
+  padding: 2% 1% 5% 1%;
+  border-radius: 10px;
+}
+.footer-card .row {
+  padding: 5px;
+}
+.footer-app {
+  margin: 8% 0% 2% 0px;
+}
+
+.card-text span {
+  color: white;
+  margin-left: -10px;
+  padding: 5px;
+}
+.card-text li {
+  padding: 3%;
+  margin-left: 1%;
+  color: white;
+}
+
+.announcement-card {
+  background-color: rgb(53, 47, 47);
+  padding: 2%;
+}
+
+.cashBid-icons > * {
+  padding: 5px;
+}
+.round-number {
+  background-color: orange;
+  padding: 15px;
+  margin-top: 5%;
+  border-radius: 100%;
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+li {
+  list-style: none;
+  color: white;
+}
+li a {
+  color: white;
+}
+.required {
+  color: red;
+  font-weight: 600;
+}

@@ -1,0 +1,152 @@
+{
+  "Feature": [ 
+    {
+      "id": 1,
+      "title": "Tech Losses Drive Stocks Down",
+      "date": "Oct 30,2020 | 15.59"
+    },
+    {
+      "id": 2,
+      "title": "Biden Returns to IA,Trump in MI",
+      "date": "Oct 30,2020 | 15.59"
+    },
+    {
+      "id": 3,
+      "title": "Pompeo Wraps Up Anti-China Tour in Asia",
+      "date": "Oct 30,2020 | 15.59"
+    },
+    {
+      "id": 4,
+      "title": "Trump,Health Advisers On Separate Path",
+      "date": "Oct 30,2020 | 15.59"
+    }
+  ],
+  "cashbid": [
+    {
+      "date": "Nov 20",
+      "products": "Soyabean",
+      "quota": "10.1600",
+      "basis":"-0.300"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Soyabean Hulls",
+      "quota": "190",
+      "basis":"-0.300"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Soyabean",
+      "quota": "10.1600",
+      "basis":"-0.300"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Soyabean Hulls",
+      "quota": "190.00",
+      "basis":"-0.300"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Soyabean",
+      "quota": "10.1600",
+      "basis":"-0.300"
+    }
+  ],
+  "future": [
+    {
+      "date": "Nov 20",
+      "products": "Soyabean",
+      "last": "1043.50",
+      "change":"-13.00"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Corn",
+      "last": "395",
+      "change":"-3.50"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Canola",
+      "last": "537.70",
+      "change":"+5.50"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Spring Wheat",
+      "last": "548.25",
+      "change":"-3.75"
+    },
+    {
+      "date": "Nov 20",
+      "products": "Spring Wheat",
+      "last": "548.25",
+      "change":"-3.75"
+    }
+  ],
+  "alerts":[
+   {
+    "message": "Bean Recieving will be closed on Tuesday 11/3/20"
+  },
+  {
+    "message": "New Split account must be mase 24 hours in advance "
+  },
+  {
+    "message": "DP Contracts must be made prior to delievery"
+  },
+  {
+    "message": "Vestibulum cursus risus pellentesque tincident"
+  },
+  {
+    "message": "Mauris sit amet facilisis justo fusce porttitor"
+  }
+],
+"annoucements":[
+  {
+    "url":"/images/image1.jpg",
+    "message":"Daily Test Messages Bids,Alerts, and Email Bid Sheet"
+  },
+  {
+    "url":"/images/image2.jpg",
+    "message":"Important Biotech Info - Effective October 2020"
+  },
+  {
+    "url":"/images/image1.jpg",
+    "message":"Bean Discount Schedule"
+  },
+  {
+    "url":"/images/image2.jpg",
+    "message":"Trucking Fob Locations"
+  }
+
+],
+"agricultureNews":[
+  {
+    "url":"/images/image1.jpg",
+    "message":"Important Biotech Info - Effective October 2020"
+  },
+  
+  {
+    "url":"/images/image2.jpg",
+    "message":"Bean Discount Schedule"
+  },
+  {
+    "url":"/images/image1.jpg",
+    "message":"Trucking Fob Locations"
+  }
+
+],
+"carousel":[
+  {
+    "image":"/images/image1.jpg"
+  },
+  {
+    "image":"/images/image2.jpg"
+  },
+  {
+    "image":"/images/image1.jpg"
+  }
+
+]
+}
